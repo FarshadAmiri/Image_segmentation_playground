@@ -166,3 +166,4 @@ mask_rcnn_coco.h5
 *.png
 *.pdf
 YOLO Tensorflow.ipynb
+Useful repos/SegmentationAPI/
